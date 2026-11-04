@@ -1,35 +1,27 @@
 
 <div align="center">
 
-<img src="assets/dark-blue-banner.png" width="100%" alt="Dark Blue Solutions — Beyond the Visible" />
+# DARK BLUE SOLUTIONS
 
-<br/>
+### BEYOND THE VISIBLE
 
-<a href="https://darkbluesolutions.com">
-  <img src="https://img.shields.io/badge/WEBSITE- DARK%20BLUE%20SOLUTIONS-07111F?style=for-the-badge&logo=googlechrome&logoColor=5CE1E6" />
-</a>
+**A South African technology company building modern software, digital experiences & intelligent solutions.**
 
-<a href="https://github.com/dark-blue-solutions">
-  <img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-07111F?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
+[Website](https://darkbluesolutions.com/) · [GitHub](https://github.com/dark-blue-solutions)
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=5CE1E6&center=true&vCenter=true&width=700&lines=Engineering+Intelligent+Software.;Building+Digital+Experiences.;Beyond+the+Visible." alt="Dark Blue Solutions introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=5CE1E6&center=true&vCenter=true&width=650&lines=Engineering+Intelligent+Software.;Building+Digital+Experiences.;Developing+Modern+Web+Solutions." />
 
 </div>
 
 ---
 
-## About Dark Blue Solutions
+## About
 
-Dark Blue Solutions is a South African technology company building modern software, digital experiences, and intelligent solutions.
+Dark Blue Solutions is a South African technology company focused on software engineering, artificial intelligence, and digital innovation.
 
-We combine software engineering, thoughtful design, and emerging technologies to develop systems that solve real-world problems.
+We build modern applications and intelligent systems that combine thoughtful design with practical engineering.
 
-Our work spans software development, artificial intelligence, e-commerce, data visualisation, and digital infrastructure.
-
-**Our philosophy:** Look beyond the obvious. Engineer what comes next.
+Our work explores the intersection of technology, data, and user experience.
 
 ---
 
@@ -39,31 +31,25 @@ Our work spans software development, artificial intelligence, e-commerce, data v
 
 ### ONYX ALPHA
 
-**Central Intelligence · AI · Interactive Systems**
-
-<img src="assets/onyx-alpha.png" width="100%" alt="Onyx Alpha — Central Intelligence" />
+**Central Intelligence · Artificial Intelligence**
 
 </div>
 
-Onyx Alpha is an intelligent AI assistant designed around a more immersive and natural interaction model.
+Onyx Alpha is an intelligent AI assistant built around an immersive conversational experience.
 
-At its centre is a dynamic particle-based intelligence orb, surrounded by an interface that brings conversational AI, voice interaction, and contextual information together.
+Featuring a dynamic particle-based intelligence orb and an interactive glass interface, Onyx explores a more natural way for users to communicate with intelligent software.
 
-Rather than presenting AI as a conventional chat window, Onyx explores a more engaging way for users to communicate with intelligent software.
+**Key Features**
 
-**Core concepts**
-
-- Interactive glass interface for communicating with the user
-- Conversational AI and voice interaction
-- Immersive particle-based visualisation
-- Intelligent agents and contextual information
-- Modern, responsive interface design
+- Interactive conversational glass interface
+- AI-powered communication
+- Voice interaction
+- Intelligent agents
+- Immersive particle visualisation
 
 <div align="center">
 
-<a href="ONYX_DEMO_URL">
-  <img src="https://img.shields.io/badge/EXPLORE%20ONYX%20ALPHA-5CE1E6?style=for-the-badge&logoColor=07111F" />
-</a>
+[Explore Onyx Alpha](https://darkbluesolutions.com/)
 
 </div>
 
@@ -73,31 +59,25 @@ Rather than presenting AI as a conventional chat window, Onyx explores a more en
 
 ### SA SITUATION MONITOR
 
-**Situational Awareness · Geospatial Intelligence · Data Visualisation**
-
-<img src="assets/sa-situation-monitor.png" width="100%" alt="SA Situation Monitor — National Intelligence Dashboard" />
+**Situational Awareness · Geospatial Intelligence**
 
 </div>
 
 SA Situation Monitor is a situational-monitoring platform focused on South Africa.
 
-The platform brings together geospatial visualisation, intelligence feeds, infrastructure monitoring, and national situational awareness into a unified digital environment.
+The platform combines geospatial visualisation, intelligence feeds, infrastructure monitoring, and national situational awareness into a unified digital environment.
 
-Designed around a dark operational interface, it presents complex information through interactive maps, data panels, and contextual visualisations.
+**Key Features**
 
-**Core concepts**
-
-- Interactive South African geospatial mapping
-- Provincial and national situational views
-- Intelligence feeds and information filtering
-- Infrastructure and critical-asset visualisation
-- Data dashboards and contextual monitoring
+- Interactive South African mapping
+- Provincial and national views
+- Intelligence feeds
+- Infrastructure monitoring
+- Data visualisation and dashboards
 
 <div align="center">
 
-<a href="SA_MONITOR_DEMO_URL">
-  <img src="https://img.shields.io/badge/EXPLORE%20SA%20SITUATION%20MONITOR-5CE1E6?style=for-the-badge&logoColor=07111F" />
-</a>
+[Explore SA Situation Monitor](https://darkbluesolutions.com/)
 
 </div>
 
@@ -107,15 +87,15 @@ Designed around a dark operational interface, it presents complex information th
 
 <div align="center">
 
-### Frontend Engineering
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind" />
 
-### Backend & Data
+**Backend & Data**
 
 <img src="https://skillicons.dev/icons?i=nodejs,postgres,python" />
 
-### Infrastructure & Development
+**Infrastructure & Development**
 
 <img src="https://skillicons.dev/icons?i=cloudflare,vercel,github,git,docker" />
 
@@ -123,25 +103,25 @@ Designed around a dark operational interface, it presents complex information th
 
 ---
 
-## Our Approach
-
-We believe technology should be purposeful, intelligent, and thoughtfully engineered.
-
-Every project is an opportunity to explore new ideas, solve meaningful problems, and create experiences that go beyond conventional expectations.
+## GitHub Activity
 
 <div align="center">
 
-**DARK BLUE SOLUTIONS**
+<img src="https://github-readme-stats.vercel.app/api?username=dark-blue-solutions&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=5CE1E6&icon_color=818CF8&text_color=CBD5E1" width="48%" />
 
-BEYOND THE VISIBLE.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-blue-solutions&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=5CE1E6&text_color=CBD5E1" width="42%" />
 
-<br/>
+</div>
 
-<a href="https://darkbluesolutions.com">
-  <img src="https://img.shields.io/badge/EXPLORE%20OUR%20WEBSITE-07111F?style=for-the-badge&logo=googlechrome&logoColor=5CE1E6" />
-</a>
+---
 
-<br/><br/>
+<div align="center">
+
+### DARK BLUE SOLUTIONS
+
+**BEYOND THE VISIBLE.**
+
+[darkbluesolutions.com](https://darkbluesolutions.com/)
 
 South Africa
 

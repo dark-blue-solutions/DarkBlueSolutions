@@ -1,80 +1,119 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0B1D3A,100:312E81&height=240&section=header&text=DARK%20BLUE%20SOLUTIONS&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=BEYOND%20THE%20VISIBLE&descAlignY=58&descSize=16" width="100%" />
+<img src="assets/dark-blue-banner.png" width="100%" alt="Dark Blue Solutions — Beyond the Visible" />
 
 <br/>
 
-<a href="https://darkbluesolutions.com/">
-  <img src="https://img.shields.io/badge/WEBSITE-darkbluesolutions.com-0B1D3A?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" />
+<a href="https://darkbluesolutions.com">
+  <img src="https://img.shields.io/badge/WEBSITE- DARK%20BLUE%20SOLUTIONS-07111F?style=for-the-badge&logo=googlechrome&logoColor=5CE1E6" />
+</a>
+
+<a href="https://github.com/dark-blue-solutions">
+  <img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-07111F?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences.;Engineering+Intelligent+Software.;Developing+Modern+Web+Solutions.;Beyond+the+Visible." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=5CE1E6&center=true&vCenter=true&width=700&lines=Engineering+Intelligent+Software.;Building+Digital+Experiences.;Beyond+the+Visible." alt="Dark Blue Solutions introduction" />
 
 </div>
 
 ---
 
-## 🌌 About Us
+## About Dark Blue Solutions
 
-**Dark Blue Solutions** is a South African technology company building modern software, digital experiences, and intelligent solutions.
+Dark Blue Solutions is a South African technology company building modern software, digital experiences, and intelligent solutions.
 
-We combine software engineering, thoughtful design, and emerging technologies to create solutions that solve real-world problems.
+We combine software engineering, thoughtful design, and emerging technologies to develop systems that solve real-world problems.
 
-From custom web applications to e-commerce platforms and AI-powered systems, we look beyond the ordinary to engineer what's next.
+Our work spans software development, artificial intelligence, e-commerce, data visualisation, and digital infrastructure.
 
-> We don't just build what's expected. We build beyond what's visible.
+**Our philosophy:** Look beyond the obvious. Engineer what comes next.
 
-## ⚡ What We Do
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Web Development
-
-Modern, responsive websites and web applications built for performance, usability, and scalability.
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 E-Commerce
-
-Custom online stores, product management systems, inventory solutions, and payment integrations.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Software Engineering
-
-Custom applications, backend systems, APIs, and business management solutions.
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI & Automation
-
-AI-powered applications, intelligent agents, LLM integrations, and workflow automation.
-
-</td>
-</tr>
-</table>
-
-## 🛠️ Technology Stack
+## Featured Projects
 
 <div align="center">
 
-### Frontend
+### ONYX ALPHA
+
+**Central Intelligence · AI · Interactive Systems**
+
+<img src="assets/onyx-alpha.png" width="100%" alt="Onyx Alpha — Central Intelligence" />
+
+</div>
+
+Onyx Alpha is an intelligent AI assistant designed around a more immersive and natural interaction model.
+
+At its centre is a dynamic particle-based intelligence orb, surrounded by an interface that brings conversational AI, voice interaction, and contextual information together.
+
+Rather than presenting AI as a conventional chat window, Onyx explores a more engaging way for users to communicate with intelligent software.
+
+**Core concepts**
+
+- Interactive glass interface for communicating with the user
+- Conversational AI and voice interaction
+- Immersive particle-based visualisation
+- Intelligent agents and contextual information
+- Modern, responsive interface design
+
+<div align="center">
+
+<a href="ONYX_DEMO_URL">
+  <img src="https://img.shields.io/badge/EXPLORE%20ONYX%20ALPHA-5CE1E6?style=for-the-badge&logoColor=07111F" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### SA SITUATION MONITOR
+
+**Situational Awareness · Geospatial Intelligence · Data Visualisation**
+
+<img src="assets/sa-situation-monitor.png" width="100%" alt="SA Situation Monitor — National Intelligence Dashboard" />
+
+</div>
+
+SA Situation Monitor is a situational-monitoring platform focused on South Africa.
+
+The platform brings together geospatial visualisation, intelligence feeds, infrastructure monitoring, and national situational awareness into a unified digital environment.
+
+Designed around a dark operational interface, it presents complex information through interactive maps, data panels, and contextual visualisations.
+
+**Core concepts**
+
+- Interactive South African geospatial mapping
+- Provincial and national situational views
+- Intelligence feeds and information filtering
+- Infrastructure and critical-asset visualisation
+- Data dashboards and contextual monitoring
+
+<div align="center">
+
+<a href="SA_MONITOR_DEMO_URL">
+  <img src="https://img.shields.io/badge/EXPLORE%20SA%20SITUATION%20MONITOR-5CE1E6?style=for-the-badge&logoColor=07111F" />
+</a>
+
+</div>
+
+---
+
+## Technology
+
+<div align="center">
+
+### Frontend Engineering
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind" />
 
-### Backend & Database
+### Backend & Data
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,python" />
 
 ### Infrastructure & Development
 
@@ -82,77 +121,28 @@ AI-powered applications, intelligent agents, LLM integrations, and workflow auto
 
 </div>
 
-## 🚀 Selected Projects
+---
+
+## Our Approach
+
+We believe technology should be purposeful, intelligent, and thoughtfully engineered.
+
+Every project is an opportunity to explore new ideas, solve meaningful problems, and create experiences that go beyond conventional expectations.
 
 <div align="center">
 
-### Holy Cannoli
+**DARK BLUE SOLUTIONS**
 
-**E-Commerce · Retail Technology**
-
-A custom e-commerce platform and business management system designed to streamline online retail operations.
-
-[Explore Dark Blue Solutions](https://darkbluesolutions.com/)
-
----
-
-### Onyx Alpha
-
-**Artificial Intelligence · Intelligent Agents**
-
-An AI-powered assistant and intelligent software ecosystem exploring the future of personal AI.
-
----
-
-### SA Situation Monitor
-
-**Data · Dashboards · Situational Monitoring**
-
-A dashboard focused on monitoring developments and situational information across South Africa.
-
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dark-blue-solutions&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&icon_color=818CF8&text_color=CBD5E1" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-blue-solutions&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=CBD5E1" width="42%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=dark-blue-solutions&theme=tokyonight&hide_border=true&background=020617&ring=60A5FA&fire=818CF8&currStreakLabel=60A5FA" width="70%" />
-
-</div>
-
----
-
-## 🌍 Our Philosophy
-
-We believe great technology is more than code.
-
-It's about understanding challenges, identifying opportunities, and engineering solutions that make a meaningful difference.
-
-We look beyond the obvious, challenge conventional thinking, and build with purpose.
-
-<div align="center">
-
-### DARK BLUE SOLUTIONS
-
-**BEYOND THE VISIBLE.**
+BEYOND THE VISIBLE.
 
 <br/>
 
-<a href="https://darkbluesolutions.com/">
-  <img src="https://img.shields.io/badge/Explore%20Our%20Website-0B1D3A?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" />
+<a href="https://darkbluesolutions.com">
+  <img src="https://img.shields.io/badge/EXPLORE%20OUR%20WEBSITE-07111F?style=for-the-badge&logo=googlechrome&logoColor=5CE1E6" />
 </a>
 
 <br/><br/>
 
-South Africa 🇿🇦
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:0B1D3A,100:020617&height=110&section=footer" width="100%" />
+South Africa
 
 </div>
-
